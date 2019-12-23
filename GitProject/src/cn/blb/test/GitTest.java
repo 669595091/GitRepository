@@ -9,6 +9,7 @@ public class GitTest {
 		System.out.println("郑超say:'没错！我就是他的儿子！！这是亘古不变的！！' ");
 		
 		System.out.println("乖鹏辉");
+		System.out.println("凳子");
 	}
 
 }
