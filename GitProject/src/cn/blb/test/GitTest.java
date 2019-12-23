@@ -4,9 +4,10 @@ public class GitTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Ö£³¬ÎÒ¶ù×Ó£¡£¡");
-		System.out.println("Ö£³¬say:ÎÒÊÇÑî´ó´óµÄ´ó¶ù×Ó,Çë¶à¶àÖ¸½Ì£¡");
-		System.out.println("Ö£³¬say:'Ã»´í£¡ÎÒ¾ÍÊÇËûµÄ¶ù×Ó£¡£¡ÕâÊÇØ¨¹Å²»±äµÄ£¡£¡' ");
+		System.out.println("Ö£ï¿½ï¿½ï¿½Ò¶ï¿½ï¿½Ó£ï¿½ï¿½ï¿½");
+		System.out.println("Ö£ï¿½ï¿½say:ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä´ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½Ì£ï¿½");
+		System.out.println("Ö£ï¿½ï¿½say:'Ã»ï¿½ï¿½ï¿½Ò¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¶ï¿½ï¿½Ó£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø¨ï¿½Å²ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ï¿½' ");
+		System.out.println("Ö£ssssssssssssss");
 	}
 
 }
